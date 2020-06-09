@@ -1,4 +1,4 @@
-# Menú para elegir una imagen ascii art  
+# Menú para elegir una imagen ascii art  :cow: :cow2: :dog:
 ## Ejecución  
 ```
 $ g++ menuasciiArt.cpp
